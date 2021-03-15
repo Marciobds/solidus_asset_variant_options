@@ -1,5 +1,4 @@
 # frozen_string_literal: true
-
 class CreateSpreeAssetsVariants < SolidusSupport::Migration[4.2]
   def change
     # rubocop:disable Rails/CreateTableWithTimestamps
